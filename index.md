@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# GitHub Pages Tutorial 
+# Lab 2-2: GitHub Flow Tutorial 
 ## Header 2
 ### Header 3
 
